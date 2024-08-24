@@ -18,5 +18,5 @@
    - Extract relevant features such as moving averages, standard deviations, and time-based features.
    
 2. **Model Development**:
-   - Use machine learning models like Isolation Forest, Autoencoders, or LSTM for anomaly detection.
+   - Use machine learning models like Isolation Forest & DBSCAN for anomaly detection.
    - Train the model on normal behavior data, and validate it with data containing anomalies.
